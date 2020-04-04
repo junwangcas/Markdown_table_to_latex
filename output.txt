@@ -1,0 +1,8 @@
+$$
+\begin{array}[b] {|c|c|}
+\hline 系列 &2019年最新款价格 \\
+\hline Mate &mate 30, 3700    \\
+\hline P    &P30， 3700       \\
+\hline 
+\end{array}
+$$
